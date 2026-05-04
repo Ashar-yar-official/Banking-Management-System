@@ -1,6 +1,6 @@
 # Banking-Management-System
 A  basic level bank system to test my cpp skills.
-"'
+```
                          ┌────────────────────────────┐
                          │      BANKING SYSTEM        │
                          │   (main function starts)   │
@@ -46,5 +46,5 @@ A  basic level bank system to test my cpp skills.
               │ (RECURSIVE CALL → LOOP BACK MENU)       │
               └────────────────────────────────────────┘
 
-"'
+```
                 
